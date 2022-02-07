@@ -1,0 +1,9 @@
+insert into servico_frete (id, preco, cep_destino, cep_origem, data_consulta, data_entrega_previsao, nome_destinatario, peso) VALUES (1, 89.90, 72640423, 72220232, '2021-01-10', '2021-02-12', 'Maria Joaquina', 25.89);
+insert into servico_frete (id, preco, cep_destino, cep_origem, data_consulta, data_entrega_previsao, nome_destinatario, peso) VALUES (2, 112.90, 72545654, 20456788, '2021-5-08', '2021-7-12', 'José Souza', 80.56);
+insert into servico_frete (id, preco, cep_destino, cep_origem, data_consulta, data_entrega_previsao, nome_destinatario, peso) VALUES (3, 60.90, 58648512, 45678926, '2021-11-09', '2021-12-12', 'João Paulo', 78.00);
+insert into servico_frete (id, preco, cep_destino, cep_origem, data_consulta, data_entrega_previsao, nome_destinatario, peso) VALUES (4, 38.90, 47593165, 75935148, '2021-02-15', '2021-04-17', 'Humberto Junior', 25.05);
+insert into servico_frete (id, preco, cep_destino, cep_origem, data_consulta, data_entrega_previsao, nome_destinatario, peso) VALUES (5, 25.90, 45978531, 75395162, '2021-05-18', '2021-06-21', 'Brenda Mirian', 45.65);
+insert into servico_frete (id, preco, cep_destino, cep_origem, data_consulta, data_entrega_previsao, nome_destinatario, peso) VALUES (6, 225.90, 12349876, 45318765, '2021-08-19', '2021-09-24', 'Jaqueline Moura', 42.13);
+insert into servico_frete (id, preco, cep_destino, cep_origem, data_consulta, data_entrega_previsao, nome_destinatario, peso) VALUES (7, 55.90, 82459345, 78956342, '2021-09-22', '2021-10-27', 'Michelle Barbosa', 10.15);
+insert into servico_frete (id, preco, cep_destino, cep_origem, data_consulta, data_entrega_previsao, nome_destinatario, peso) VALUES (8, 80.00, 78945612, 12457839, '2021-01-25', '2021-01-29', 'Rayane Pinheiro', 29.90);
+insert into servico_frete (id, preco, cep_destino, cep_origem, data_consulta, data_entrega_previsao, nome_destinatario, peso) VALUES (9, 119.90, 12378956, 13579642, '2021-06-28', '2021-07-01', 'Victor Prado', 115.15);
