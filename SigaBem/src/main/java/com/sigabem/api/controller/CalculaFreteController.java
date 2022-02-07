@@ -83,8 +83,7 @@ public class CalculaFreteController {
 			
 			HttpHeaders header = new HttpHeaders();
 			header.add(HttpHeaders.LOCATION, "localhost:8080/calculo-frete/"+servicoFrete.getId());	
-			
-			representacaoServicoFrete.setDataEntregaPrevisao(LocalDate.of(2022, 11, 20));			
+		
 			return ResponseEntity.status(HttpStatus.OK).headers(header).body(representacaoServicoFrete);
 		} catch (ArgumentoInvalidoException e) {
 			return ResponseEntity.badRequest().body(e.getMessage());
